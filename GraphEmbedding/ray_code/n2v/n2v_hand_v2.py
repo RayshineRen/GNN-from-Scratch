@@ -47,7 +47,7 @@ def preprocess_trans_probs(G, p, q):
 def walkOneTime(G, alias_nodes, alias_edges, start_node, walk_length):
     walk = [start_node]  # 起始节点
     for _ in range(walk_length):
-        cur = int(walk[-1])
+        cur = walk[-1]
         cur_nbrs = sorted(G.neighbors(cur))
         if len(cur_nbrs) > 0:
             if len(walk) == 1:
@@ -55,7 +55,7 @@ def walkOneTime(G, alias_nodes, alias_edges, start_node, walk_length):
                     cur_nbrs[alias_sample(alias_nodes[cur][0], alias_nodes[cur][1])]
                 )
             else:
-                prev = int(walk[-2])
+                prev = walk[-2]
                 next_node = cur_nbrs[
                     alias_sample(
                         alias_edges[(prev, cur)][0], alias_edges[(prev, cur)][1]

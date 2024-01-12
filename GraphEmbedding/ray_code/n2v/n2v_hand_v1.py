@@ -21,7 +21,7 @@ def sampleByWeight(G, v, t, p, q):
 def walkOneTime(G, start_node, walk_length, p, q):
     walk = [start_node]  # 起始节点
     for _ in range(walk_length):
-        cur_node = int(walk[-1])
+        cur_node = walk[-1]
         nbrs = list(G.neighbors(cur_node))
         if len(nbrs) > 0:
             if len(walk) == 1:
