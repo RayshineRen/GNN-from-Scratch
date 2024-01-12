@@ -33,10 +33,15 @@
 + [3. 2.1_DeepWalk](https://www.bilibili.com/video/BV1Jz4y1z7Ws/?p=3&spm_id_from=pageDriver&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
   + 中文讲解较多模型，可当成进阶资料，学技术
 + [GraphSAGE & PinSAGE详解 - mathor (wmathor.com)](https://wmathor.com/index.php/archives/1533/)
-
 + [PGL全球冠军团队带你攻破图神经网络_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rf4y1v7cU/?spm_id_from=333.337.search-card.all.click&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
   + 飞桨nb
 + [LOGS第2023/12/02期||密歇根州立大学 毛海涛：图神经网络什么时候失效？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
++ [图神经网络(4)_图游走算法deepwalk与node2vec_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV15o4y1R7nC/?spm_id_from=333.880.my_history.page.click&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
+  + 代码简单易懂，可学
++ [图神经网络系列讲解及代码实现- Node2Vec 2_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1834y1f7P8/?p=8&spm_id_from=pageDriver)
+  + 代码实现不错，值得学
+
+
 
 ### 4.GNN-for-PDE
 
