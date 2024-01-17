@@ -40,6 +40,8 @@
   + 代码简单易懂，可学
 + [图神经网络系列讲解及代码实现- Node2Vec 2_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1834y1f7P8/?p=8&spm_id_from=pageDriver)
   + 代码实现不错，值得学
++ [图机器学习](https://www.bilibili.com/video/BV1TP411Y7c3/?spm_id_from=333.999.0.0&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
+  + 比较系统
 
 
 
