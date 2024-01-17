@@ -32,6 +32,7 @@
 
 + [3. 2.1_DeepWalk](https://www.bilibili.com/video/BV1Jz4y1z7Ws/?p=3&spm_id_from=pageDriver&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
   + 中文讲解较多模型，可当成进阶资料，学技术
+  + [【图神经网络】GNN从入门到精通](https://www.bilibili.com/video/BV1K5411H7EQ?p=12&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe) 4K资源
 + [GraphSAGE & PinSAGE详解 - mathor (wmathor.com)](https://wmathor.com/index.php/archives/1533/)
 + [PGL全球冠军团队带你攻破图神经网络_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1rf4y1v7cU/?spm_id_from=333.337.search-card.all.click&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
   + 飞桨nb
