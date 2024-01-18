@@ -52,3 +52,13 @@
 + ICLR 2021 LEARNING CONTINUOUS-TIME PDES FROM SPARSE DATA WITH GRAPH NEURAL NETWORKS
 + ICLR 2022 MESSAGE PASSING NEURAL PDE SOLVERS
 + Computer Methods in Applied Mechanics and Engineering 2022 Physics-informed graph neural Galerkin networks: A unified framework for solving PDE-governed forward and inverse problems
+
+### 5.书籍
++ 图深度学习
+  + good
+  + [b站作者的教程](https://www.bilibili.com/video/BV1yx4y1R7uV/?spm_id_from=333.999.0.0&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
++ 深入浅出图神经网络
+  + 前半部分讲表示学习，比较啰嗦
+  + 后半部分讲GNN，比较系统
++ 图神经网络: 基础,前沿与应用
+  + 内容充实，讲了许多应用
