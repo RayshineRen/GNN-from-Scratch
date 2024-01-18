@@ -24,9 +24,8 @@
     + 全开源，可学
 + [零基础多图详解图神经网络（GNN/GCN）](https://www.bilibili.com/video/BV1iT4y1d7zP/?spm_id_from=333.788&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
   + 二倍速，半个小时可学完。比较醍醐灌顶，比别的视频废话少
-+ [AlphaFold 2 论文精读](https://www.bilibili.com/video/BV1oR4y1K7Xr/?spm_id_from=333.788&vd_source=d8d2c837a6fad4a93cc95f349e30e2fe)
-  + GNN最佳应用
-  + 扩展，2023Nature的Scaling deep learning for materials discovery
++ GNN最佳应用
+  + 2023Nature的Scaling deep learning for materials discovery
 
 ### 3.其它资料
 
