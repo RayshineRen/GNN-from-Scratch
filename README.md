@@ -16,6 +16,8 @@
 + [图表示学习极简教程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/112295277)
   + 看简单视频入门后，看这篇综述，补充基础知识
   + 覆盖早期的图节点嵌入工作，另一个角度解释GCN、GraphSAGE、GAT
++ [深度学习中不得不学的Graph Embedding方法](https://zhuanlan.zhihu.com/p/64200072)
+  + 系统学习Embedding方法。
 + CS224W
   + [中文讲解](https://github.com/TommyZihao/zihao_course/tree/main/CS224W)
     + 代码收费，可二倍速听听讲解，有几篇论文精讲
